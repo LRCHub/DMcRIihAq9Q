@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "여행",
+  "base_artist": "볼빨간사춘기",
+  "createdAt": "2026-02-06T13:47:44.993946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "밤, 바다, 여행",
+      "artist": "Lee Jin-Ah",
+      "has_synced": false,
+      "path": "select/01_밤,_바다,_여행_Lee_Jin-Ah.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "밤, 바다, 여행",
+      "artist": "이진아 (Lee Jin Ah)",
+      "has_synced": false,
+      "path": "select/02_밤,_바다,_여행_이진아_(Lee_Jin_Ah).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "여행 A Short Journey",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/03_여행_A_Short_Journey_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "여행 (A Short Journey)",
+      "artist": "SUPER JUNIOR (슈퍼주니어)",
+      "has_synced": true,
+      "path": "select/04_여행_(A_Short_Journey)_SUPER_JUNIOR_(슈퍼주니어).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "여행 (Traveler)",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/05_여행_(Traveler)_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "여행 가고 싶어",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/06_여행_가고_싶어_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "여행 가고 싶어",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/07_여행_가고_싶어_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "밤, 바다, 여행",
+      "artist": "Lee Jin Ah",
+      "has_synced": true,
+      "path": "select/08_밤,_바다,_여행_Lee_Jin_Ah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "저 햇살속의 먼 여행",
+      "artist": "Lee Moon Sae",
+      "has_synced": false,
+      "path": "select/09_저_햇살속의_먼_여행_Lee_Moon_Sae.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "나에게로 떠나는 여행",
+      "artist": "Buzz",
+      "has_synced": false,
+      "path": "select/10_나에게로_떠나는_여행_Buzz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "마지막 여행",
+      "artist": "유승준",
+      "has_synced": true,
+      "path": "select/11_마지막_여행_유승준.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "여행 A Short Journey",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/12_여행_A_Short_Journey_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "여행 (A Short Journey)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/13_여행_(A_Short_Journey)_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "15. 여행 (A Short Journey)",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/14_15._여행_(A_Short_Journey)_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "여행 (Dear)",
+      "artist": "스웨덴세탁소 Sweden Laundry",
+      "has_synced": true,
+      "path": "select/15_여행_(Dear)_스웨덴세탁소_Sweden_Laundry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "저 햇살 속의 먼 여행",
+      "artist": "이문세",
+      "has_synced": false,
+      "path": "select/16_저_햇살_속의_먼_여행_이문세.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "나에게로 떠나는 여행",
+      "artist": "버즈",
+      "has_synced": true,
+      "path": "select/17_나에게로_떠나는_여행_버즈.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "여행",
+      "artist": "PANIC",
+      "has_synced": false,
+      "path": "select/18_여행_PANIC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "여행",
+      "artist": "Bolbbalgan4",
+      "has_synced": false,
+      "path": "select/pl_01_여행_Bolbbalgan4.txt"
+    }
+  ]
+}
